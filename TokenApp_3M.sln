@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenApp_3M", "TokenApp_3M\TokenApp_3M.csproj", "{70E9FCA7-DE9C-4C29-BB64-00C5B8AECA05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E9FCA7-DE9C-4C29-BB64-00C5B8AECA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E9FCA7-DE9C-4C29-BB64-00C5B8AECA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E9FCA7-DE9C-4C29-BB64-00C5B8AECA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E9FCA7-DE9C-4C29-BB64-00C5B8AECA05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {414A1091-3C79-4DC8-90DD-8959D556F648}
+	EndGlobalSection
+EndGlobal
